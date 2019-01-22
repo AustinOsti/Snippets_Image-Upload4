@@ -17,7 +17,7 @@ It is assumed you have installed git and Heroku CLI and have a Heroku account.
 - Add "Cloudinary" addon to your Heroku app
   - 'heroku addons:create cloudinary:starter'
 - Rename the Heroku app as follows:
- - heroku apps:rename calm-tor-29631 --app <name assigned by heroku>
+ - heroku apps:rename calm-tor-29631 --app [name assigned by heroku]
 - Install the npm dependencies 
   - 'npm install'
 - Deploy to Heroku 
